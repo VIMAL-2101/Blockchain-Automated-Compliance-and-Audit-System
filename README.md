@@ -38,15 +38,32 @@ Unlike traditional centralized audit systems, this solution ensures **data integ
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
+- **Python** – Core backend & automation logic  
+
+---
+
+### ⚛️ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+- **React.js** – User interface for compliance input and audit results  
+- **HTML5 & CSS3** – UI structure and styling  
+- **JavaScript (ES6)** – Frontend logic and API communication  
+- **Axios / Fetch API** – Connects React frontend with backend APIs  
+
+---
+
 ### ⛓️ Blockchain & Backend Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- **Python** – Core backend & automation logic  
 - **Blockchain (Ethereum / Private Chain)** – Secure audit ledger  
 - **Web3.py** – Blockchain interaction  
 - **Smart Contracts (Optional)** – Compliance rule enforcement  
+
+---
 
 ### 📚 Libraries & Frameworks
 <p align="left">
@@ -65,6 +82,8 @@ Unlike traditional centralized audit systems, this solution ensures **data integ
 | Software | Version |
 |--------|---------|
 | Python | 3.8+ |
+| Node.js | 16+ |
+| React | Latest |
 | Flask / FastAPI | Latest |
 | Web3.py | Latest |
 | TensorFlow | 2.x |
@@ -77,5 +96,14 @@ Unlike traditional centralized audit systems, this solution ensures **data integ
 
 ```bash
 git clone https://github.com/VIMAL-2101/Blockchain-Automated-Compliance-and-Audit-System.git
+```
+
+```## 💻Frontend Setup (React)
+
+cd frontend
+npm install
+npm start
+
 cd Blockchain-Automated-Compliance-and-Audit-System
 pip install -r requirements.txt
+  
